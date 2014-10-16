@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cot:home|Door43 (cot)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cot|d43-cot repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cot/archive/master.zip|d43-cot.zip]]
+
+**Recent Changes**
+{{changes>ns = cot}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cot|Ethnologue data]]
+
